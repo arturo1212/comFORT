@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+  m_Name: WitConfiguration
+  m_EditorClassIdentifier: 
+  application:
+    witConfiguration: {fileID: 0}
+    name: comfort
+    id: 937364810516643
+    lang: en
+    isPrivate: 1
+    createdAt: 2021-11-19T19:23:45-0800
+  configId: 701f9dcfd5e074e438d2cc1a07866ebd
+  clientAccessToken: C7LMO23PNAXTKZKOVL55TDRRMZKCYZ4I
+  entities:
+  - witConfiguration: {fileID: 11400000}
+    id: 602659904186421
+    name: Pushing_back
+    lookups:
+    - free-text
+    - keywords
+    roles:
+    - 
+    keywords: []
+  - witConfiguration: {fileID: 11400000}
+    id: 576828280280527
+    name: cardinal_point
+    lookups:
+    - free-text
+    - keywords
+    roles:
+    - 
+    keywords:
+    - keyword: east
+      synonyms:
+      - east
+    - keyword: north
+      synonyms:
+      - north
+    - keyword: south
+      synonyms:
+      - south
+    - keyword: west
+      synonyms:
+      - west
+  intents:
+  - witConfiguration: {fileID: 11400000}
+    id: 715875233140167
+    name: movement
+    entities:
+    - witConfiguration: {fileID: 11400000}
+      id: 220687293520796
+      name: cardinal_point:cardinal_point
+      lookups: []
+      roles: []
+      keywords: []
+  - witConfiguration: {fileID: 11400000}
+    id: 601349917954574
+    name: pushback
+    entities: []
+  - witConfiguration: {fileID: 11400000}
+    id: 604733330747247
+    name: shoot
+    entities: []
+  traits: []

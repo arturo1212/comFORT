@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6191114525fc748b49d2ddc498295a, type: 3}
+  m_Name: Shape
+  m_EditorClassIdentifier: 
+  maskSubregion: 1
+  subregion:
+  - {x: -2.8994925, y: -5.3377872e-17, z: 2.4039254}
+  - {x: -1.7971565, y: 4.448423e-17, z: -2.0033915}
+  - {x: 1.7769108, y: -3.679113e-17, z: 1.6569252}
+  - {x: 1.9103025, y: 4.27349e-17, z: -1.9246087}
+  noiseLayers:
+  - enabled: 1
+    useFirstLayerAsMask: 0
+    noiseSettings:
+      filterType: 1
+      simpleNoiseSettings:
+        strength: 0
+        noiseLayers: 0
+        baseRoughness: 0
+        roughness: 0
+        persistance: 0
+        center: {x: 0, y: 0, z: 0}
+        minValue: 0
+      cushionNoiseSettings:
+        strength: -0.22
+        noiseLayers: 2
+        baseRoughness: 0.48
+        roughness: 1.79
+        persistance: 0.64
+        center: {x: 0, y: 0, z: 0}
+        minValue: 0
+        weightMultiplier: 0
+  - enabled: 1
+    useFirstLayerAsMask: 0
+    noiseSettings:
+      filterType: 0
+      simpleNoiseSettings:
+        strength: 1.87
+        noiseLayers: 1
+        baseRoughness: 0.21
+        roughness: 3.28
+        persistance: 0.13
+        center: {x: 0, y: 0, z: 0}
+        minValue: 0.23
+      cushionNoiseSettings:
+        strength: 0
+        noiseLayers: 0
+        baseRoughness: 0
+        roughness: 0
+        persistance: 0
+        center: {x: 0, y: 0, z: 0}
+        minValue: 0
+        weightMultiplier: 0

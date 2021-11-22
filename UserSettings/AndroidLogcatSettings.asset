@@ -1,0 +1,167 @@
+{
+    "m_SelectedDeviceId": "1WMHH811D70381",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH811D70381",
+        "name": "com.ArepaCode.comFORT",
+        "processId": 8736,
+        "exited": false
+    },
+    "m_SelectedPriority": 4,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 26697,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 26977,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 28180,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 28838,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 29308,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.oculus.shellenv",
+            "processId": 1872,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 6926,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 8542,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 8852,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 9290,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 9566,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 15971,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 16447,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 5273,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 6084,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 7724,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH811D70381",
+            "name": "com.ArepaCode.comFORT",
+            "processId": 8736,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
